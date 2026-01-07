@@ -1,0 +1,714 @@
+{
+  "pays": "Estonie & Lituanie",
+  "drapeau": "🇪🇪🇱🇹",
+  "symbole": "🏰",
+  "titre": "Évasion Balte : Charme Historique et Douceur Naturelle",
+  "budget_total": "Environ 2150 €/personne",
+  "duree": "19 jours",
+  "temps_vol": "5h30 (depuis Rose, Italie, escale non incluse)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Tallinn : Premiers Pas dans la Capitale Médiévale",
+      "legende": "Après votre vol, installez-vous tranquillement dans la charmante Tallinn. Profitez d'une première balade relaxante dans la Vieille Ville, classée à l'UNESCO, pour vous imprégner de son atmosphère unique et de ses ruelles pavées. Une journée douce pour commencer l'aventure.",
+      "lieu": "Tallinn, Estonie",
+      "activites": [
+        "<strong>🛬 Arrivée à Tallinn</strong>: Atterrissage à l'aéroport de Tallinn (TLL) et transfert vers votre hébergement au cœur de la ville.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez le temps de vous installer et de vous rafraîchir après le voyage.",
+        "<strong>🚶‍♂️ Balade douce dans la Vieille Ville</strong>: Une première exploration sans hâte des remparts, des tours et des places historiques de Tallinn, idéal pour une mise en bouche."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Tallinn, Tallinn",
+          "categorie": "Aéroport",
+          "coords": { "lat": 59.4133, "lng": 24.8328 }
+        },
+        {
+          "nom_recherche": "Vieille Ville de Tallinn, Tallinn",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 59.4370, "lng": 24.7454 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Conseil Transport",
+          "texte": "Depuis l'aéroport, le tramway n°4 vous emmène directement au centre-ville en environ 15-20 minutes, une option économique et pratique."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Trésors de Tallinn : Histoire et Panoramas",
+      "legende": "Plongez au cœur de l'histoire de Tallinn en explorant ses sites emblématiques. De la majestueuse place de l'Hôtel de Ville aux vues imprenables depuis la colline de Toompea, cette journée combine culture et détente visuelle. Terminez par une pause gourmande.",
+      "lieu": "Tallinn, Estonie",
+      "activites": [
+        "<strong>🏛️ Visite de la Place de l'Hôtel de Ville</strong>: Admirez l'architecture gothique de l'Hôtel de Ville et imprégnez-vous de l'ambiance médiévale de cette place animée.",
+        "<strong>🚶‍♀️ Exploration de la Colline de Toompea</strong>: Montez à Toompea pour découvrir le Château de Toompea, la Cathédrale Alexandre Nevski et profiter des plateformes d'observation offrant des vues panoramiques sur la ville.",
+        "<strong>☕ Pause détente au Café Maiasmokk</strong>: Le plus ancien café d'Estonie, parfait pour savourer une pâtisserie traditionnelle dans un cadre historique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Place de l'Hôtel de Ville, Tallinn",
+          "categorie": "Place",
+          "coords": { "lat": 59.4372, "lng": 24.7454 }
+        },
+        {
+          "nom_recherche": "Colline de Toompea, Tallinn",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 59.4369, "lng": 24.7408 }
+        },
+        {
+          "nom_recherche": "Café Maiasmokk, Tallinn",
+          "categorie": "Café",
+          "coords": { "lat": 59.4378, "lng": 24.7470 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Spot Photo",
+          "texte": "Les plateformes d'observation de Kohtuotsa et Patkuli sur Toompea offrent les meilleures vues pour immortaliser Tallinn."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌳",
+      "titre": "Élégance et Art à Kadriorg, Charme Bohème à Kalamaja",
+      "legende": "Cette journée vous emmène du raffinement du quartier de Kadriorg, avec son palais et ses jardins, à l'atmosphère décontractée et artistique de Kalamaja. Un contraste saisissant entre histoire impériale et modernité bohème, parfait pour une exploration variée et relaxante.",
+      "lieu": "Tallinn, Estonie",
+      "activites": [
+        "<strong>👑 Visite du Palais et Parc de Kadriorg</strong>: Flânez dans les magnifiques jardins baroques et admirez l'élégance du Palais de Kadriorg, cadeau de Pierre le Grand à Catherine Ière.",
+        "<strong>🎨 Découverte du Musée d'Art Kumu</strong>: Explorez l'un des plus grands musées d'art des pays Baltes, présentant l'art estonien du XVIIIe siècle à nos jours, dans un bâtiment moderne impressionnant.",
+        "<strong>🏘️ Balade dans le quartier de Kalamaja et Telliskivi Creative City</strong>: Promenez-vous parmi les maisons en bois colorées de Kalamaja et découvrez l'effervescence artistique de Telliskivi, avec ses boutiques de créateurs et ses cafés branchés."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Palais de Kadriorg, Tallinn",
+          "categorie": "Palais et parc",
+          "coords": { "lat": 59.4397, "lng": 24.7905 }
+        },
+        {
+          "nom_recherche": "Musée d'Art Kumu, Tallinn",
+          "categorie": "Musée",
+          "coords": { "lat": 59.4398, "lng": 24.7992 }
+        },
+        {
+          "nom_recherche": "Telliskivi Creative City, Tallinn",
+          "categorie": "Quartier créatif",
+          "coords": { "lat": 59.4369, "lng": 24.7300 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Conseil Balade",
+          "texte": "Le quartier de Kalamaja est parfait pour une promenade tranquille, loin de l'agitation de la Vieille Ville, avec de nombreux petits cafés pour se reposer."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🧖‍♀️",
+      "titre": "Détente et Nature : Spa ou Côte Balte",
+      "legende": "Offrez-vous une journée de pure relaxation. Choisissez entre une expérience spa revigorante dans un centre moderne de Tallinn ou une escapade tranquille le long de la côte balte, pour profiter de l'air marin et des paysages apaisants. Une pause bien méritée avant de continuer le voyage.",
+      "lieu": "Tallinn, Estonie",
+      "activites": [
+        "<strong>🧖‍♀️ Matinée Spa et Bien-être</strong>: Profitez des installations d'un spa local (ex: Kalev Spa ou Tallink Spa & Conference Hotel) pour des soins relaxants, piscines et saunas.",
+        "<strong>🏖️ Après-midi à la Plage de Pirita</strong>: Si le temps le permet, une balade sur la plage de Pirita, avec vue sur la ville et la mer Baltique, est idéale pour se ressourcer.",
+        "<strong>🍽️ Dîner avec vue sur la mer</strong>: Terminez la journée par un dîner dans un restaurant en bord de mer à Pirita, savourant des fruits de mer frais."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Kalev Spa, Tallinn",
+          "categorie": "Spa",
+          "coords": { "lat": 59.4402, "lng": 24.7505 }
+        },
+        {
+          "nom_recherche": "Plage de Pirita, Tallinn",
+          "categorie": "Plage",
+          "coords": { "lat": 59.4670, "lng": 24.8400 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Météo",
+          "texte": "En mai-juin, les températures sont douces, mais l'eau de la Baltique reste fraîche. La plage est plus propice à la balade qu'à la baignade."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🚌",
+      "titre": "Cap sur Pärnu : La Capitale d'Été de l'Estonie",
+      "legende": "Quittez Tallinn pour la charmante ville côtière de Pärnu, réputée pour ses plages de sable et ses spas. Après un trajet confortable en bus, installez-vous et profitez d'une première immersion dans cette destination de détente par excellence. Une journée de transition en douceur.",
+      "lieu": "Pärnu, Estonie",
+      "activites": [
+        "<strong>🚌 Trajet en bus vers Pärnu</strong>: Voyage confortable d'environ 2 heures de Tallinn à Pärnu avec Lux Express ou un autre opérateur.",
+        "<strong>🛏️ Installation à l'hôtel à Pärnu</strong>: Arrivée et installation dans votre hébergement, idéalement près de la plage ou du centre-ville.",
+        "<strong>🚶‍♀️ Balade sur la Promenade de Pärnu</strong>: Une promenade relaxante le long de la plage et de la jetée, pour sentir l'air marin et admirer le coucher de soleil."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare routière de Tallinn, Tallinn",
+          "categorie": "Gare routière",
+          "coords": { "lat": 59.4310, "lng": 24.7670 }
+        },
+        {
+          "nom_recherche": "Gare routière de Pärnu, Pärnu",
+          "categorie": "Gare routière",
+          "coords": { "lat": 58.3850, "lng": 24.5000 }
+        },
+        {
+          "nom_recherche": "Promenade de Pärnu, Pärnu",
+          "categorie": "Promenade",
+          "coords": { "lat": 58.3750, "lng": 24.4850 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport",
+          "texte": "Les bus Lux Express sont modernes et confortables, avec Wi-Fi gratuit et prises électriques, rendant le trajet agréable."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🏖️",
+      "titre": "Pärnu : Plage, Spa et Architecture Art Nouveau",
+      "legende": "Dédiée à la détente et à la découverte des charmes de Pärnu, cette journée vous invite à profiter de sa célèbre plage, à vous offrir un moment de bien-être dans un de ses nombreux spas, et à admirer son architecture élégante. Un programme parfait pour se ressourcer.",
+      "lieu": "Pärnu, Estonie",
+      "activites": [
+        "<strong>☀️ Matinée à la Plage de Pärnu</strong>: Profitez du sable fin et de l'ambiance paisible de la plage, idéale pour une longue balade ou simplement se détendre.",
+        "<strong>🧖‍♀️ Expérience Spa à Pärnu</strong>: Offrez-vous un soin ou un accès aux piscines et saunas dans l'un des spas réputés de la ville, comme le Hedon Spa & Hotel.",
+        "<strong>🚶‍♂️ Découverte de l'architecture Art Nouveau</strong>: Promenez-vous dans le centre-ville pour admirer les villas et bâtiments Art Nouveau, témoins du passé glorieux de Pärnu comme station balnéaire."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Plage de Pärnu, Pärnu",
+          "categorie": "Plage",
+          "coords": { "lat": 58.3750, "lng": 24.4850 }
+        },
+        {
+          "nom_recherche": "Hedon Spa & Hotel, Pärnu",
+          "categorie": "Spa",
+          "coords": { "lat": 58.3780, "lng": 24.4870 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Le saviez-vous ?",
+          "texte": "Pärnu est surnommée la \"capitale d'été\" de l'Estonie, attirant de nombreux visiteurs pour son ambiance décontractée et ses festivals estivaux."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🇱🇻",
+      "titre": "Voyage vers Riga : Perle de la Baltique",
+      "legende": "Aujourd'hui, vous traversez la frontière pour rejoindre Riga, la capitale lettone, connue pour son architecture Art Nouveau. Le trajet en bus offre de jolis paysages. Une fois arrivé, une première balade dans le centre historique vous donnera un aperçu de sa grandeur.",
+      "lieu": "Riga, Lettonie",
+      "activites": [
+        "<strong>🚌 Trajet en bus vers Riga</strong>: Voyage d'environ 3 heures de Pärnu à Riga. Profitez du paysage changeant entre l'Estonie et la Lettonie.",
+        "<strong>🛏️ Installation à l'hôtel à Riga</strong>: Arrivée et installation dans votre hébergement, idéalement situé près de la Vieille Ville.",
+        "<strong>🚶‍♀️ Première exploration de la Vieille Ville de Riga</strong>: Une promenade tranquille dans les rues pavées, admirant la Cathédrale du Dôme et la Maison des Têtes Noires."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare routière de Pärnu, Pärnu",
+          "categorie": "Gare routière",
+          "coords": { "lat": 58.3850, "lng": 24.5000 }
+        },
+        {
+          "nom_recherche": "Gare routière internationale de Riga, Riga",
+          "categorie": "Gare routière",
+          "coords": { "lat": 56.9440, "lng": 24.1160 }
+        },
+        {
+          "nom_recherche": "Vieille Ville de Riga, Riga",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 56.9496, "lng": 24.1052 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🗺️",
+          "titre": "Frontière",
+          "texte": "Le passage de la frontière entre l'Estonie et la Lettonie est généralement fluide et ne nécessite pas d'arrêt formel pour les citoyens de l'UE."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🎨",
+      "titre": "Riga : Splendeur Art Nouveau et Marché Central",
+      "legende": "Découvrez la richesse architecturale de Riga, notamment ses célèbres bâtiments Art Nouveau, avant de vous immerger dans l'ambiance vibrante de son marché central. Une journée équilibrée entre culture visuelle et saveurs locales, parfaite pour les explorateurs curieux.",
+      "lieu": "Riga, Lettonie",
+      "activites": [
+        "<strong>🖼️ Visite du quartier Art Nouveau</strong>: Flânez dans les rues Alberta et Elizabetes pour admirer les façades exubérantes des bâtiments Art Nouveau, un véritable musée à ciel ouvert.",
+        "<strong>🛍️ Exploration du Marché Central de Riga</strong>: Imprégnez-vous de l'atmosphère locale en visitant l'un des plus grands marchés d'Europe, installé dans d'anciens hangars à zeppelins, et goûtez aux produits frais.",
+        "<strong>⛪ Détente à la Cathédrale du Dôme de Riga</strong>: Visitez cette impressionnante cathédrale, l'une des plus anciennes églises médiévales des pays Baltes, et profitez de son calme."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Rue Alberta, Riga",
+          "categorie": "Rue historique",
+          "coords": { "lat": 56.9690, "lng": 24.1080 }
+        },
+        {
+          "nom_recherche": "Marché Central de Riga, Riga",
+          "categorie": "Marché",
+          "coords": { "lat": 56.9440, "lng": 24.1200 }
+        },
+        {
+          "nom_recherche": "Cathédrale du Dôme de Riga, Riga",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 56.9490, "lng": 24.1040 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♂️",
+          "titre": "Conseil Balade",
+          "texte": "Le quartier Art Nouveau est facilement accessible à pied depuis la Vieille Ville, prévoyez de bonnes chaussures pour explorer toutes les rues."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🛶",
+      "titre": "Riga : Croisière sur le Canal et Parc Bastejkalns",
+      "legende": "Profitez d'une journée plus douce à Riga en explorant ses espaces verts et ses voies navigables. Une croisière relaxante sur le canal offre une perspective unique sur la ville, suivie d'une promenade apaisante dans le parc Bastejkalns. Idéal pour recharger les batteries.",
+      "lieu": "Riga, Lettonie",
+      "activites": [
+        "<strong>🛶 Croisière relaxante sur le canal de Riga</strong>: Montez à bord d'un petit bateau pour une croisière paisible le long du canal, offrant des vues différentes sur les parcs et les monuments de la ville.",
+        "<strong>🌳 Promenade au Parc Bastejkalns</strong>: Détendez-vous dans ce parc verdoyant qui entoure le canal, avec ses ponts romantiques, ses cascades miniatures et ses sculptures.",
+        "<strong>🍽️ Dîner dans un restaurant traditionnel letton</strong>: Savourez les spécialités locales dans un cadre chaleureux, pour une immersion culinaire complète."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Croisière sur le canal de Riga, Riga",
+          "categorie": "Activité nautique",
+          "coords": { "lat": 56.9500, "lng": 24.1100 }
+        },
+        {
+          "nom_recherche": "Parc Bastejkalns, Riga",
+          "categorie": "Parc",
+          "coords": { "lat": 56.9520, "lng": 24.1100 }
+        }
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Anecdote",
+          "texte": "Le canal de Riga était autrefois un fossé défensif autour de la Vieille Ville, transformé en voie navigable pittoresque au XIXe siècle."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🇱🇹",
+      "titre": "Cap sur Vilnius : La Capitale Baroque de la Lituanie",
+      "legende": "Quittez Riga pour la magnifique Vilnius, la capitale lituanienne, célèbre pour son architecture baroque et son ambiance artistique. Le trajet en bus vous mènera à travers les paysages baltes, avant une première immersion dans la Vieille Ville, classée à l'UNESCO.",
+      "lieu": "Vilnius, Lituanie",
+      "activites": [
+        "<strong>🚌 Trajet en bus vers Vilnius</strong>: Voyage d'environ 4 heures de Riga à Vilnius. Profitez du confort des bus modernes pour admirer le paysage.",
+        "<strong>🛏️ Installation à l'hôtel à Vilnius</strong>: Arrivée et installation dans votre hébergement, idéalement situé près de la Vieille Ville.",
+        "<strong>🚶‍♀️ Première balade dans la Vieille Ville de Vilnius</strong>: Une promenade tranquille pour découvrir les ruelles sinueuses, les églises baroques et l'atmosphère unique de Vilnius."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare routière internationale de Riga, Riga",
+          "categorie": "Gare routière",
+          "coords": { "lat": 56.9440, "lng": 24.1160 }
+        },
+        {
+          "nom_recherche": "Gare routière de Vilnius, Vilnius",
+          "categorie": "Gare routière",
+          "coords": { "lat": 54.6750, "lng": 25.2850 }
+        },
+        {
+          "nom_recherche": "Vieille Ville de Vilnius, Vilnius",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 54.6833, "lng": 25.2833 }
+        }
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Les bus Lux Express sont une excellente option pour les trajets inter-pays baltes, offrant confort et fiabilité."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "⛪",
+      "titre": "Vilnius : Chefs-d'œuvre Baroques et République d'Užupis",
+      "legende": "Explorez les trésors baroques de Vilnius, de la Cathédrale à l'Université, avant de vous aventurer dans la République bohème d'Užupis. Cette journée combine l'élégance historique avec l'esprit libre et artistique, offrant une expérience culturelle riche et variée.",
+      "lieu": "Vilnius, Lituanie",
+      "activites": [
+        "<strong>⛪ Visite de la Cathédrale de Vilnius et de la Tour de Gediminas</strong>: Découvrez l'emblématique Cathédrale néoclassique et montez à la Tour de Gediminas pour une vue imprenable sur la ville.",
+        "<strong>🎓 Exploration de l'Université de Vilnius</strong>: Flânez dans les cours intérieures de l'une des plus anciennes universités d'Europe de l'Est, un joyau architectural.",
+        "<strong>🎨 Découverte de la République d'Užupis</strong>: Traversez le pont pour entrer dans cette \"république\" autoproclamée d'artistes, avec sa propre constitution, ses galeries et son ambiance unique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Cathédrale de Vilnius, Vilnius",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 54.6859, "lng": 25.2865 }
+        },
+        {
+          "nom_recherche": "Tour de Gediminas, Vilnius",
+          "categorie": "Tour",
+          "coords": { "lat": 54.6869, "lng": 25.2890 }
+        },
+        {
+          "nom_recherche": "Université de Vilnius, Vilnius",
+          "categorie": "Université",
+          "coords": { "lat": 54.6838, "lng": 25.2870 }
+        },
+        {
+          "nom_recherche": "République d'Užupis, Vilnius",
+          "categorie": "Quartier artistique",
+          "coords": { "lat": 54.6800, "lng": 25.2930 }
+        }
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "🙃",
+          "titre": "Insolite",
+          "texte": "La République d'Užupis a sa propre armée (environ 12 hommes), sa monnaie, et même un ange gardien. C'est un lieu plein d'humour et de créativité."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🏞️",
+      "titre": "Évasion Naturelle : Lacs et Château de Trakai",
+      "legende": "Échappez à l'agitation de la ville pour une journée sereine au Parc National Historique de Trakai. Admirez le magnifique château insulaire, flânez au bord des lacs et imprégnez-vous de la tranquillité de ce site historique. Une parenthèse enchantée et relaxante.",
+      "lieu": "Trakai, Lituanie",
+      "activites": [
+        "<strong>🚌 Excursion au Château de Trakai</strong>: Prenez un bus local pour Trakai (environ 30 min) et visitez le célèbre château médiéval sur une île au milieu du lac Galvė.",
+        "<strong>🛶 Balade en bateau sur le lac Galvė</strong>: Louez un pédalo ou un petit bateau pour explorer les eaux calmes du lac et admirer le château sous différents angles.",
+        "<strong>🍽️ Dégustation de Kibinai</strong>: Goûtez aux Kibinai, des pâtisseries salées traditionnelles des Karaïtes, une minorité ethnique turcophone installée à Trakai."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Château de Trakai, Trakai",
+          "categorie": "Château",
+          "coords": { "lat": 54.6400, "lng": 24.9340 }
+        },
+        {
+          "nom_recherche": "Lac Galvė, Trakai",
+          "categorie": "Lac",
+          "coords": { "lat": 54.6400, "lng": 24.9300 }
+        }
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transport",
+          "texte": "Des bus réguliers partent de la gare routière de Vilnius pour Trakai, rendant l'excursion très facile et accessible."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "🧘‍♀️",
+      "titre": "Vilnius : Jardins Botaniques et Détente Urbaine",
+      "legende": "Profitez d'une journée plus calme à Vilnius, en explorant ses vastes jardins botaniques pour une immersion dans la nature. L'après-midi est dédiée à la flânerie dans les parcs urbains ou à la découverte de petites galeries, offrant une pause bienvenue et ressourçante.",
+      "lieu": "Vilnius, Lituanie",
+      "activites": [
+        "<strong>🌸 Visite du Jardin Botanique de l'Université de Vilnius</strong>: Éloignez-vous de l'agitation et explorez ce magnifique jardin, parfait pour une promenade paisible parmi les fleurs et les plantes.",
+        "<strong>🌳 Détente au Parc Vingis</strong>: Le plus grand parc de Vilnius, idéal pour une balade à vélo (location possible) ou simplement se reposer au bord de la rivière Neris.",
+        "<strong>☕ Café et lecture dans un quartier calme</strong>: Trouvez un café confortable dans un quartier moins touristique pour savourer un moment de tranquillité."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Jardin Botanique de l'Université de Vilnius, Vilnius",
+          "categorie": "Jardin botanique",
+          "coords": { "lat": 54.6980, "lng": 25.3600 }
+        },
+        {
+          "nom_recherche": "Parc Vingis, Vilnius",
+          "categorie": "Parc",
+          "coords": { "lat": 54.6800, "lng": 25.2400 }
+        }
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "🚲",
+          "titre": "Activité Douce",
+          "texte": "La location de vélos est une excellente façon d'explorer le Parc Vingis et les rives de la Neris à votre rythme."
+        }
+      ]
+    },
+    {
+      "jour": 14,
+      "symbole": "🚌",
+      "titre": "Cap sur Kaunas : La Capitale Culturelle",
+      "legende": "Quittez Vilnius pour Kaunas, la deuxième ville de Lituanie, réputée pour son architecture moderniste et son ambiance artistique. Après un court trajet en bus, installez-vous et commencez à explorer la Vieille Ville, un mélange charmant d'histoire et de modernité.",
+      "lieu": "Kaunas, Lituanie",
+      "activites": [
+        "<strong>🚌 Trajet en bus vers Kaunas</strong>: Voyage d'environ 1h30 de Vilnius à Kaunas, une transition rapide et agréable.",
+        "<strong>🛏️ Installation à l'hôtel à Kaunas</strong>: Arrivée et installation dans votre hébergement, près de la Vieille Ville ou du centre moderne.",
+        "<strong>🚶‍♀️ Balade dans la Vieille Ville de Kaunas</strong>: Découvrez le Château de Kaunas, la Place de l'Hôtel de Ville et les ruelles pittoresques de la vieille ville."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare routière de Vilnius, Vilnius",
+          "categorie": "Gare routière",
+          "coords": { "lat": 54.6750, "lng": 25.2850 }
+        },
+        {
+          "nom_recherche": "Gare routière de Kaunas, Kaunas",
+          "categorie": "Gare routière",
+          "coords": { "lat": 54.8900, "lng": 23.9200 }
+        },
+        {
+          "nom_recherche": "Château de Kaunas, Kaunas",
+          "categorie": "Château",
+          "coords": { "lat": 54.8990, "lng": 23.8860 }
+        }
+      ],
+      "illustration": "jour14.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Le saviez-vous ?",
+          "texte": "Kaunas fut la capitale temporaire de la Lituanie entre les deux guerres mondiales, ce qui a laissé un héritage architectural moderniste unique."
+        }
+      ]
+    },
+    {
+      "jour": 15,
+      "symbole": "🖼️",
+      "titre": "Kaunas : Art, Modernisme et Monastère Paisible",
+      "legende": "Explorez le riche patrimoine de Kaunas, de son architecture moderniste reconnue par l'UNESCO à la sérénité du monastère de Pažaislis. Cette journée offre un mélange harmonieux de découvertes culturelles et de moments de calme, loin de l'agitation urbaine.",
+      "lieu": "Kaunas, Lituanie",
+      "activites": [
+        "<strong>🚶‍♂️ Découverte de l'architecture moderniste</strong>: Promenez-vous le long de l'Avenue de la Liberté (Laisvės alėja) et dans les rues adjacentes pour admirer les bâtiments modernistes des années 1920-1930.",
+        "<strong>🎨 Visite du Musée National d'Art M. K. Čiurlionis</strong>: Plongez dans l'œuvre du célèbre artiste et compositeur lituanien M. K. Čiurlionis, une expérience culturelle unique.",
+        "<strong>⛪ Excursion au Monastère de Pažaislis</strong>: Prenez un court trajet en bus ou taxi pour visiter ce magnifique complexe monastique baroque, situé au bord du lac Kaunas, un havre de paix."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Avenue de la Liberté, Kaunas",
+          "categorie": "Rue commerçante",
+          "coords": { "lat": 54.8970, "lng": 23.9000 }
+        },
+        {
+          "nom_recherche": "Musée National d'Art M. K. Čiurlionis, Kaunas",
+          "categorie": "Musée",
+          "coords": { "lat": 54.8970, "lng": 23.9100 }
+        },
+        {
+          "nom_recherche": "Monastère de Pažaislis, Kaunas",
+          "categorie": "Monastère",
+          "coords": { "lat": 54.8700, "lng": 24.0200 }
+        }
+      ],
+      "illustration": "jour15.jpg",
+      "encarts": [
+        {
+          "symbole": "🌳",
+          "titre": "Nature et Calme",
+          "texte": "Le Monastère de Pažaislis est un lieu idéal pour une promenade méditative et pour profiter de la beauté naturelle des environs du lac."
+        }
+      ]
+    },
+    {
+      "jour": 16,
+      "symbole": "🔄",
+      "titre": "Retour vers Riga : Transition Balte",
+      "legende": "Aujourd'hui marque le début de votre retour vers Tallinn. Le trajet en bus de Kaunas à Riga est une étape confortable, vous permettant de vous reposer et de profiter des paysages. Une soirée tranquille à Riga pour une dernière immersion dans son ambiance avant de remonter vers le nord.",
+      "lieu": "Riga, Lettonie",
+      "activites": [
+        "<strong>🚌 Trajet en bus vers Riga</strong>: Voyage d'environ 4 heures de Kaunas à Riga. Profitez du temps pour lire ou admirer le paysage.",
+        "<strong>🛏️ Installation à l'hôtel à Riga</strong>: Arrivée et installation pour une nuit à Riga, idéalement près de la gare routière ou de la Vieille Ville.",
+        "<strong>🍽️ Dîner relaxant dans la Vieille Ville</strong>: Un dernier dîner dans un restaurant de la Vieille Ville de Riga, pour savourer l'ambiance nocturne."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare routière de Kaunas, Kaunas",
+          "categorie": "Gare routière",
+          "coords": { "lat": 54.8900, "lng": 23.9200 }
+        },
+        {
+          "nom_recherche": "Gare routière internationale de Riga, Riga",
+          "categorie": "Gare routière",
+          "coords": { "lat": 56.9440, "lng": 24.1160 }
+        }
+      ],
+      "illustration": "jour16.jpg",
+      "encarts": [
+        {
+          "symbole": "😴",
+          "titre": "Repos",
+          "texte": "Ce long trajet est l'occasion de se reposer et de se préparer pour la dernière partie du voyage."
+        }
+      ]
+    },
+    {
+      "jour": 17,
+      "symbole": "⬆️",
+      "titre": "Remontée vers Tallinn : Retour en Estonie",
+      "legende": "Poursuivez votre remontée vers le nord, de Riga à Tallinn. Ce trajet en bus est l'occasion de revoir les paysages baltes et de vous remémorer les moments forts du voyage. Une fois à Tallinn, profitez d'une soirée libre pour vous détendre ou faire quelques achats de dernière minute.",
+      "lieu": "Tallinn, Estonie",
+      "activites": [
+        "<strong>🚌 Trajet en bus vers Tallinn</strong>: Voyage d'environ 4h30 de Riga à Tallinn. Un trajet direct et confortable.",
+        "<strong>🛏️ Installation à l'hôtel à Tallinn</strong>: Arrivée et installation dans votre hébergement, pour les deux dernières nuits.",
+        "<strong>🛍️ Soirée libre et derniers achats</strong>: Profitez de la soirée pour flâner, dîner tranquillement ou faire quelques emplettes de souvenirs."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare routière internationale de Riga, Riga",
+          "categorie": "Gare routière",
+          "coords": { "lat": 56.9440, "lng": 24.1160 }
+        },
+        {
+          "nom_recherche": "Gare routière de Tallinn, Tallinn",
+          "categorie": "Gare routière",
+          "coords": { "lat": 59.4310, "lng": 24.7670 }
+        }
+      ],
+      "illustration": "jour17.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Les marchés de Tallinn offrent de nombreux produits artisanaux, comme l'ambre, la laine ou le lin, parfaits pour des souvenirs."
+        }
+      ]
+    },
+    {
+      "jour": 18,
+      "symbole": "🚶‍♀️",
+      "titre": "Tallinn : Détente et Derniers Adieux",
+      "legende": "Profitez de cette dernière journée complète à Tallinn pour une exploration plus approfondie des quartiers que vous avez aimés ou pour découvrir de nouveaux coins. Une journée sans stress, dédiée à la flânerie, aux cafés et aux derniers moments dans cette charmante capitale balte.",
+      "lieu": "Tallinn, Estonie",
+      "activites": [
+        "<strong>🚶‍♀️ Flânerie dans le quartier de Rotermann</strong>: Découvrez ce quartier industriel réhabilité, avec son architecture moderne et ses boutiques design, idéal pour une balade urbaine.",
+        "<strong>☕ Pause café et lecture</strong>: Installez-vous dans un café cosy de la Vieille Ville ou de Kalamaja pour un moment de détente et de réflexion sur votre voyage.",
+        "<strong>🍽️ Dîner d'adieu</strong>: Savourez un dernier dîner estonien dans un restaurant de votre choix, pour clôturer ce magnifique voyage."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Quartier de Rotermann, Tallinn",
+          "categorie": "Quartier moderne",
+          "coords": { "lat": 59.4390, "lng": 24.7570 }
+        }
+      ],
+      "illustration": "jour18.jpg",
+      "encarts": [
+        {
+          "symbole": "😌",
+          "titre": "Rythme Doux",
+          "texte": "Cette journée est conçue pour être flexible, vous permettant de revisiter vos lieux préférés ou de découvrir de nouvelles facettes de Tallinn à votre rythme."
+        }
+      ]
+    },
+    {
+      "jour": 19,
+      "symbole": "🛫",
+      "titre": "Départ de Tallinn",
+      "legende": "Après un voyage riche en découvertes et en moments de détente à travers l'Estonie et la Lituanie, il est temps de prendre votre vol retour depuis Tallinn. Profitez d'un dernier petit-déjeuner avant de vous diriger vers l'aéroport, la tête pleine de souvenirs baltes.",
+      "lieu": "Tallinn, Estonie",
+      "activites": [
+        "<strong>🍳 Petit-déjeuner à l'hôtel</strong>: Profitez d'un dernier repas avant le départ.",
+        "<strong>🛬 Transfert vers l'aéroport de Tallinn (TLL)</strong>: Organisez votre transfert en fonction de l'heure de votre vol.",
+        "<strong>✈️ Vol retour vers Rose, Italie</strong>: Départ de Tallinn, emportant avec vous les souvenirs de cette belle aventure balte."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Tallinn, Tallinn",
+          "categorie": "Aéroport",
+          "coords": { "lat": 59.4133, "lng": 24.8328 }
+        }
+      ],
+      "illustration": "jour19.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Conseil",
+          "texte": "Prévoyez suffisamment de temps pour le transfert et les formalités à l'aéroport, surtout si vous avez des bagages à enregistrer."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "199 €/personne (A/R FCO-TLL)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 200 €/personne (bus inter-villes, transports locaux)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 665 €/personne (35 €/jour pour 19 jours, repas moyens)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 630 €/personne (35 €/nuit pour 18 nuits, hôtels 3* base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 380 €/personne (20 €/jour pour 19 jours, entrées, spas, excursions)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai-Juin", "symbole": "☀️" },
+    { "titre": "Septembre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En mai-juin, les températures sont douces (15-22°C), mais prévoyez des couches et un imperméable. Les soirées peuvent être fraîches.", "symbole": "☀️" },
+    { "titre": "La monnaie est l'Euro (€) en Estonie, Lettonie et Lituanie. Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile.", "symbole": "💳" },
+    { "titre": "Les pays Baltes sont membres de l'espace Schengen. Un permis de conduire français est suffisant pour la location de voiture (non recommandée pour cet itinéraire).", "symbole": "🚗" },
+    { "titre": "Le Wi-Fi est très répandu et de bonne qualité. Une eSIM ou carte SIM locale (Telia, Elisa, Tele2) est pratique pour les données mobiles.", "symbole": "📶" },
+    { "titre": "Les bus (notamment Lux Express) sont le moyen de transport le plus efficace et confortable pour voyager entre les villes et les pays baltes.", "symbole": "🚌" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "La \"Révolution chantante\" fut une série d'événements pacifiques entre 1987 et 1991 où les Baltes ont utilisé le chant et la musique pour affirmer leur identité et leur désir d'indépendance vis-à-vis de l'URSS. Le \"Chemin Baltique\" en 1989 a vu deux millions de personnes former une chaîne humaine de Tallinn à Vilnius."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "À Tallinn, la Raeapteek (Pharmacie de l'Hôtel de Ville) est l'une des plus anciennes pharmacies d'Europe, en activité depuis 1422. On y vendait autrefois de la poudre de momie et du jus de sangsue comme remèdes !"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Cepelinai (Lituanie)",
+      "description": "De gros dumplings de pommes de terre farcis de viande hachée ou de fromage blanc, servis avec de la crème aigre et des lardons. Un plat copieux et réconfortant, emblématique de la cuisine lituanienne."
+    },
+    {
+      "symbole": "🥣",
+      "titre": "Šaltibarščiai (Lituanie)",
+      "description": "Une soupe froide de betteraves d'un rose vif, à base de kéfir, concombres, aneth et œufs durs. Rafraîchissante et parfaite pour les journées chaudes, souvent servie avec des pommes de terre chaudes."
+    },
+    {
+      "symbole": "🥪",
+      "titre": "Kiluvõileib (Estonie)",
+      "description": "Un simple mais délicieux sandwich ouvert estonien, composé de pain de seigle noir beurré, de sprats marinés (petits poissons), d'œuf dur et d'herbes fraîches. Un classique à goûter absolument !"
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/FCO-TLL/2026-05-15/2026-06-03", "symbole": "🛬" },
+    { "legende": "Transports en bus", "titre": "Lux Express", "url": "https://luxexpress.eu/fr/", "symbole": "🚌" },
+    { "legende": "Office du tourisme Estonie", "titre": "Visit Estonia", "url": "https://www.visitestonia.com/fr", "symbole": "📘" },
+    { "legende": "Office du tourisme Lituanie", "titre": "Lithuania Travel", "url": "https://www.lithuania.travel/fr", "symbole": "📘" },
+    { "legende": "Météo", "titre": "AccuWeather", "url": "https://www.accuweather.com/fr/ee/tallinn/323377/weather-forecast/323377", "symbole": "🌤️" }
+  ]
+}
